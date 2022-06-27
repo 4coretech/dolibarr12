@@ -1,1 +1,5 @@
 /conf
+conf/conf.php
+conf/conf.php.old
+*.php
+documents/install.lock
